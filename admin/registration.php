@@ -12,7 +12,7 @@
        $photo_name = $username.'.'.$photo;
        
        $input_error = array();
-       
+//       added feature
        if(empty($name)){
            $input_error['name'] = "Name is Required";
        }

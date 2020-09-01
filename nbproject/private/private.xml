@@ -4,10 +4,21 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/xampp/htdocs/Student_Database/admin/style.css</file>
+            <file>file:/C:/xampp/htdocs/Student_Database/admin/update-student.php</file>
             <file>file:/C:/xampp/htdocs/Student_Database/index.php</file>
+            <file>file:/C:/xampp/htdocs/Student_Database/admin/delete_student.php</file>
             <file>file:/C:/xampp/htdocs/Student_Database/admin/dbconn.php</file>
             <file>file:/C:/xampp/htdocs/Student_Database/admin/registration.php</file>
+            <file>file:/C:/xampp/htdocs/Student_Database/admin/dashboard.php</file>
+            <file>file:/C:/xampp/htdocs/Student_Database/admin/all-students.php</file>
             <file>file:/C:/xampp/htdocs/Student_Database/admin/login.php</file>
+            <file>file:/C:/xampp/htdocs/Student_Database/admin/404.php</file>
+            <file>file:/C:/xampp/htdocs/Student_Database/admin/all-users.php</file>
+            <file>file:/C:/xampp/htdocs/Student_Database/admin/logout.php</file>
+            <file>file:/C:/xampp/htdocs/Student_Database/js/script.js</file>
+            <file>file:/C:/xampp/htdocs/Student_Database/admin/add-student.php</file>
+            <file>file:/C:/xampp/htdocs/Student_Database/admin/user-profile.php</file>
+            <file>file:/C:/xampp/htdocs/Student_Database/admin/dashboard2.php</file>
         </group>
     </open-files>
 </project-private>
